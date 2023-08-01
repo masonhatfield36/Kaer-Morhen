@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "React_vue_jobs",
+    "slug": "React_vue_jobs"
+  }
+}
